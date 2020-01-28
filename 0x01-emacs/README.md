@@ -1,5 +1,5 @@
-# Day 0 Project
-This repository contains files for project 0x00-Vagrant
+# Emacs Project
+This repository contains files for project 0x01-Emacs
 
 # Author
 **Juan Felipe Bustamante M**
